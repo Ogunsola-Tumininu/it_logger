@@ -1,0 +1,39 @@
+{
+  "logs": [
+    {
+      "id": 3,
+      "message": "Change memory on workstation 050",
+      "attention": false,
+      "tech": "Kelvin Adams"
+    },
+    {
+      "message": "Problem with server 003 in Audit Department",
+      "attention": true,
+      "tech": "Sara Smitg",
+      "date": "2019-11-13T13:13:33.709Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Clement",
+      "lastName": "Shopp",
+      "id": 4
+    },
+    {
+      "firstName": "Kelvin",
+      "lastName": "Adams",
+      "id": 5
+    },
+    {
+      "firstName": "Adebayo",
+      "lastName": "Adeniji",
+      "id": 7
+    }
+  ]
+}
